@@ -1,0 +1,8 @@
+2026-10-27T08:00:01Z sshd Failed password for admin from 203.0.113.24
+2026-10-27T08:00:04Z sshd Failed password for admin from 203.0.113.24
+2026-10-27T08:00:07Z sshd Failed password for admin from 203.0.113.24
+2026-10-27T08:00:10Z sshd Failed password for admin from 203.0.113.24
+2026-10-27T08:00:14Z sshd Failed password for admin from 203.0.113.24
+2026-10-27T08:01:03Z sshd Accepted password for admin from 203.0.113.24
+2026-10-27T08:02:12Z sudo admin COMMAND=/usr/bin/cat /etc/shadow
+2026-10-27T08:03:21Z firewall DENY SRC=203.0.113.24 DPT=3389
